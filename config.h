@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Operator Mono SSm Book:bold:pixelsize=16:antialias=true:autohint=true:hintstyle=1:rgba=1";
-static char *font2[] = { "JoyPixels:pixelsize=10:antialias=true:autohint=true" };
+static char *font = "Operator Mono SSm Book:bold:size=11:antialias=true:autohint=true:hintstyle=1:rgba=1";
+static char *font2[] = { "JoyPixels:size=11:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
